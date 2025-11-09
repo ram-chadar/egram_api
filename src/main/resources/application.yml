@@ -1,0 +1,8 @@
+tenant:
+  dbUsername: postgres
+  dbPassword: admin
+
+spring:
+  profiles:
+    active:
+    - dev
